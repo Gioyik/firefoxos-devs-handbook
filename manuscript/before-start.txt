@@ -3,14 +3,13 @@
 
 ## Setting up a Bugzilla account
 * Register at [Bugzilla](https://bugzilla.mozilla.org)
-* Save a search for your project:
 * Ask someone to get you permission to 'take' bugs
 
 ## Join irc.mozilla.org and join the following channels
 * Gaia IRC channel #gaia
 * B2G IRC channel #b2g
 
-## Track Gaia specs powerpoints for visual/interaction specifications
+## Track specs powerpoints for visual/interaction specifications
 * Monitor the [Gaia specs](https://mozilla.app.box.com/s/wzgsb3lkqglv0dnfdgzs) page
 
 ## Join Weekly Gaia meeting
