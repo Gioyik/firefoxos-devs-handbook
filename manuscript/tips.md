@@ -1,7 +1,14 @@
 # Tips
 Those tips could save your life someday.
 
-Some tips for navigating in B2G desktop:
+## png_recompress.sh
+This is an image compressor. You can run it on your gaia directory with the following command structure:
+
+    $ ./tools/png_recompress.sh -v bg.png
+
+This will remove unnecessary metadata and further compress the png; it can save up to 99.5% of the file size, which has a very measurable impact on an app's ZIP size and memory footprint.
+
+## Hardware keys emulation
 
     +-------------------+-------------------------+---------------+
     | Button            | Window/Linux            | Mac           |
@@ -17,8 +24,6 @@ Some tips for navigating in B2G desktop:
 The `b2g` executable uses the default profile that ships with Boot 2 Gecko
 itself. This makes it unsuitable for Gaia development. The `b2g-bin` executable
 uses the profile specified on the command line (see above).
-
-## Deploying and Testing
 
 ## Grab the latest from master
 
@@ -102,18 +107,6 @@ git branch -D busted-r1
 ```
 
 2b. If conflicts, work them out with the other developer and repeat above
-
-### Useful aliases for debugging/deploying
-
-1. Copy Corey's .dotfiles/b2g.sh
-    - https://github.com/gnarf/.dotfiles/blob/master/b2g.sh
-        - Contains aliases for testing and running gaia in nightly
-    - Make sure to update paths as needed:
-        - check for absolute paths to Firefox Nightly
-        - replace `gnarf` as needed, of course.
-    - Linux Mint: 
-        - add aliases in ~/.bashrc
-    - Don't worry about B2G paths for right now
 
 ### Making a Pull Request
 

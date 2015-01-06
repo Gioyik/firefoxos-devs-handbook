@@ -1,7 +1,9 @@
 introduction.md
 before-start.md
-building.md
-tips.md
-debuggin.md
 setting-enviroment.md
+building.md
+debuggin.md
 integration-testing.md
+tips.md
+books.md
+thanks.md
