@@ -1,6 +1,7 @@
-before-start.txt
-building.txt
-tips.txt
-debuggin.txt
-setting-enviroment.txt
-integration-testing.txt
+introduction.md
+before-start.md
+building.md
+tips.md
+debuggin.md
+setting-enviroment.md
+integration-testing.md

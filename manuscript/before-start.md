@@ -1,5 +1,5 @@
 # Before start
-[TDB]
+There are some links could be helpful before start with this book. Be sure to check all of them and see if one or more could help you in someway.
 
 ## Setting up a Bugzilla account
 * Register at [Bugzilla](https://bugzilla.mozilla.org)

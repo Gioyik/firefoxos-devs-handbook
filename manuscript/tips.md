@@ -18,9 +18,9 @@ The `b2g` executable uses the default profile that ships with Boot 2 Gecko
 itself. This makes it unsuitable for Gaia development. The `b2g-bin` executable
 uses the profile specified on the command line (see above).
 
-### Deploying and Testing
+## Deploying and Testing
 
-#### Grab the latest from master
+## Grab the latest from master
 
 ```bash
 cd path/to/gaia
