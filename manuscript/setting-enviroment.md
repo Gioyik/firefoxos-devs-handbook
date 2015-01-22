@@ -1,5 +1,5 @@
 # Setting Up Your Environment
-[TBD]
+If you'd like to contribute to Firefox, simple instructions to build desktop Firefox are here, and for mobile contributors, you can get started here to build Firefox for Android or here to build Firefox OS.  Getting set up may take some time - there are some big downloads involved - so you may want to move on to the next steps while it builds. More build instructions can be found here.
 
 ## Gaia
 [TBD]
