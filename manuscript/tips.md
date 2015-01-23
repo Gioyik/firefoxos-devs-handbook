@@ -2,6 +2,11 @@
 Those tips could save your life someday.
 
 ## png_recompress.sh
+** NOTE ** You need to have installed on your system the following packages to use this tool:
+
+advancecomp
+optipng
+
 This is an image compressor. You can run it on your gaia directory with the following command structure:
 
     $ ./tools/png_recompress.sh -v bg.png
