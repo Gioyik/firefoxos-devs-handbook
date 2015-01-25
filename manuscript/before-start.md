@@ -33,6 +33,8 @@ Here are some links could be helpful before start with this book. Be sure to che
 
 ### Track Firefox OS UX specs
 * See [All](https://mozilla.app.box.com/s/44utizl9oz4eupyu3fuu) specs.
+* See [v3.0]() specs.
+* See [v2.2]() specs.
 * See [v2.1](https://mozilla.app.box.com/s/44utizl9oz4eupyu3fuu/1/1759289051) specs.
 * See [v2.0](https://mozilla.app.box.com/s/44utizl9oz4eupyu3fuu/1/1732424767) specs.
 * See [v1.4](https://mozilla.app.box.com/s/44utizl9oz4eupyu3fuu/1/1226137087) specs.
