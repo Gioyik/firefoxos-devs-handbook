@@ -1,5 +1,6 @@
-# Building
-[TBD]
+# Working on Gaia
+
+## Getting Gaia
 
 ## Building Gaia
 Clone gaia:
@@ -30,7 +31,7 @@ So this should load B2G and start your profile for the first time. You'll
 probably get the welcoming questions like language and time-zone, as well as an
 optional tour.
 
-## Stingray Build
+### Stingray Build (TV layout)
 The Stingray project is an initiative to enable Firefox OS platform to run on larger screen TV 
 
 To build:
