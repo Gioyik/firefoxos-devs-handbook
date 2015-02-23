@@ -80,9 +80,8 @@ If you're not using Mercurial Queues, you can use TryChooser by including a "try
     $ hg commit -m "Bug XXXXXX - Change foo to bar.  try: -b d -p all"
     $ hg push -f ssh://hg.mozilla.org/try
 
-I>### After pushing, you can remove the empty patch:
-I>    hg qpop
-I>    hg qremove try-your-patch
+I>### After pushing, you can remove the empty try patch:
+I>    $ hg qpop && hg qremove try-your-patch
 
 ### See on TryChooser
 
